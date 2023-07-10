@@ -2,3 +2,41 @@
     margin: 0px;
     padding: 0px;
 }
+/* it was a header section */
+.header-img{
+    width: 340px;
+    margin-top: 23px;
+}
+.header-container{
+    display: flex;
+    justify-content: space-around;
+    height: 450px;
+    align-items: center;
+    background-color: rgba(229, 84, 115, 0.10);
+}
+.title{
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+}
+.descrption{
+    color: rgba(39, 39, 39, 0.60);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    }
+    .primary-button{
+        padding: 10px 20px;
+        background-color: red;
+        color: white;
+        border: none;
+        
+    }
+    /* it was a main section */
