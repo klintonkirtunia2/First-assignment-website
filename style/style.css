@@ -3,6 +3,7 @@
     padding: 0px;
 }
 /* it was a header section */
+
 .header-img{
     width: 340px;
     margin-top: 23px;
@@ -40,6 +41,10 @@
         
     }
     /* it was a main section */
+ 
+
+   
+
 .deal-photo{
         width: 120px;
     }
@@ -87,11 +92,26 @@
 
     
 }
-.instagram-photo{
+
+/* Our Featured Flowers section */
+
+.featured-flower-section{
     
-    width: 500px;
-    height: 80px;
-    /* gap: 10px; */
+    margin: 50px;
+    padding:0px 360px 0px 360px;
+    display: flex;
+    justify-content: space-evenly;
+    
 
+}
+.flower{
+    width: 200px;
+    height: 240px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
 
+}
+.flower-heading{
+    padding: 10px;
+    text-decoration: underline;
 }
