@@ -23,7 +23,7 @@
     line-height: normal;
 }
 .descrption{
-    color: rgba(39, 39, 39, 0.60);
+    color: rgba(18, 18, 18, 0.6);
     margin-top: 10px;
     margin-bottom: 10px;
     font-family: Lato;
@@ -32,7 +32,7 @@
     font-weight: 400;
     line-height: 22px;
     }
-    .primary-button{
+.primary-button{
         padding: 10px 20px;
         background-color: red;
         color: white;
@@ -40,3 +40,21 @@
         
     }
     /* it was a main section */
+.deal-photo{
+        width: 120px;
+    }
+.main-container{
+    margin: 40px;
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    align-items: center;
+    background-color: rgb(185, 201, 78);
+    border-radius: 5px;
+    gap: 100px;
+    
+
+    }
+#span{
+    color: #f80000;
+}   
