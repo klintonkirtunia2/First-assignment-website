@@ -159,3 +159,39 @@
     
     
  }
+ /* added the footer section */
+ .footer-container{
+    height: 300px;
+    padding-top: 50px;
+    background-color: black;
+    color: white;
+ }
+ .footer-header{
+    padding-top: 60px;
+    text-align: center;
+    color: #E55473;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+}
+.span{
+    color: white;
+}
+.footer-description{
+    padding: 5px;
+    text-align: center;
+    font-family: Lato;
+    font-size: 13px;
+    font-weight: 300;
+    
+}
+.copyright-container{
+    padding-top: 40px;
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 13px;
+    font-weight: 300;
+    
+}
+/* end the all section */
